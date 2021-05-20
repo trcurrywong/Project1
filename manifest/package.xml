@@ -82,20 +82,6 @@
 		<name>FlexiPage</name>
 	</types>
 	<types>
-		<members>Adoption_Flow</members>
-		<members>Adoption_Process</members>
-		<members>Grooming_Flow</members>
-		<members>Grooming_Process</members>
-		<name>Flow</name>
-	</types>
-	<types>
-		<members>Adoption_Flow</members>
-		<members>Adoption_Process</members>
-		<members>Grooming_Flow</members>
-		<members>Grooming_Process</members>
-		<name>FlowDefinition</name>
-	</types>
-	<types>
 		<members>*</members>
 		<name>GlobalValueSet</name>
 	</types>

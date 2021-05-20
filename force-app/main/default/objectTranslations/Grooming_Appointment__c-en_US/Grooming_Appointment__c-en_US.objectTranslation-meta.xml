@@ -20,8 +20,4 @@
         <errorMessage></errorMessage>
         <name>Must_Have_A_Cell_Phone</name>
     </validationRules>
-    <workflowTasks>
-        <name>Ask_Client</name>
-        <subject></subject>
-    </workflowTasks>
 </CustomObjectTranslation>
