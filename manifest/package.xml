@@ -69,7 +69,6 @@
 		<name>CustomTab</name>
 	</types>
 	<types>
-		<members>Add_Client</members>
 		<members>Adoption_Record_Page</members>
 		<members>Grooming_Appointment_Record_Page</members>
 		<members>Grooming_Appointment_Record_Page1</members>
