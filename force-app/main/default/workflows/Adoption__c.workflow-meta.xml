@@ -32,7 +32,7 @@
     </rules>
     <tasks>
         <fullName>Certificate</fullName>
-        <assignedTo>ssh1el@gmail.com</assignedTo>
+        <assignedTo>admin@dex403.56944.com</assignedTo>
         <assignedToType>user</assignedToType>
         <dueDateOffset>3</dueDateOffset>
         <notifyAssignee>false</notifyAssignee>
@@ -44,7 +44,7 @@
     </tasks>
     <tasks>
         <fullName>Check_Clinic</fullName>
-        <assignedTo>ssh1el@gmail.com</assignedTo>
+        <assignedTo>admin@dex403.56944.com</assignedTo>
         <assignedToType>user</assignedToType>
         <dueDateOffset>2</dueDateOffset>
         <notifyAssignee>false</notifyAssignee>

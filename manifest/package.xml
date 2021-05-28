@@ -21,6 +21,7 @@
 	</types>
 	<types>
 		<members>AdoptionAnimalsList</members>
+		<members>DogCompanyImage</members>
 		<members>GroomingBathPage</members>
 		<members>GroomingGatherSuppliesPage</members>
 		<members>GroomingGuideHomePage</members>
@@ -37,6 +38,21 @@
 	<types>
 		<members>*</members>
 		<name>ApexTrigger</name>
+	</types>
+	<types>
+		<members>Adoption__c.Vaccination_Check_of_Animal_in_Shelter</members>
+		<members>Grooming_Appointment__c.Check_on_Client_s_Feedback_of_Task</members>
+		<name>ApprovalProcess</name>
+	</types>
+	<types>
+		<members>DogAndCat</members>
+		<members>HahaDogPlaneGoSoarHaha1</members>
+		<members>PetSoars1</members>
+		<members>X03e6f58dc15799b88c07539edc3017672</members>
+		<members>X360_F_196530365_iGypfBmy31cL4XBNCO61</members>
+		<members>X49a21fe43dfe27346523a9422070adb4</members>
+		<members>dogpetshopferretclipartpngfavpngdqx</members>
+		<name>ContentAsset</name>
 	</types>
 	<types>
 		<members>Pet_Store</members>
@@ -106,6 +122,10 @@
 		<name>CustomObjectTranslation</name>
 	</types>
 	<types>
+		<members>*</members>
+		<name>CustomSite</name>
+	</types>
+	<types>
 		<members>Adoption__c</members>
 		<members>Grooming__c</members>
 		<members>Inventory__c</members>
@@ -127,8 +147,11 @@
 		<name>FlexiPage</name>
 	</types>
 	<types>
-		<members>*</members>
-		<name>GlobalValueSet</name>
+		<members>Adoption_Flow</members>
+		<members>Adoption_Process</members>
+		<members>Grooming_Flow</members>
+		<members>Grooming_Process</members>
+		<name>FlowDefinition</name>
 	</types>
 	<types>
 		<members>Adoption__c-Adoption Layout</members>
@@ -168,6 +191,21 @@
 		<name>SharingRules</name>
 	</types>
 	<types>
+		<members>*</members>
+		<name>SiteDotCom</name>
+	</types>
+	<types>
+		<members>CatBox</members>
+		<members>DogBall</members>
+		<members>DogBone</members>
+		<members>DogLeash</members>
+		<members>DogPaw</members>
+		<members>Logo</members>
+		<members>LogoBackground</members>
+		<members>YEP</members>
+		<name>StaticResource</name>
+	</types>
+	<types>
 		<members>Adoption__c</members>
 		<members>Cat__c</members>
 		<members>Dog__c</members>
@@ -183,6 +221,23 @@
 		<members>Adoption__c.Must_Have_A_Start_Date</members>
 		<members>Grooming_Appointment__c.Must_Have_A_Cell_Phone</members>
 		<name>ValidationRule</name>
+	</types>
+	<types>
+		<members>Adoption__c</members>
+		<members>Grooming_Appointment__c</members>
+		<name>Workflow</name>
+	</types>
+	<types>
+		<members>Adoption__c.Check_to_True</members>
+		<members>Adoption__c.Vaccination_Unchecked</members>
+		<members>Grooming_Appointment__c.Set_Rating_to_Neutral</members>
+		<members>Grooming_Appointment__c.Status_to_Amazing</members>
+		<name>WorkflowFieldUpdate</name>
+	</types>
+	<types>
+		<members>Adoption__c.New Adoption for Validation Check</members>
+		<members>Grooming_Appointment__c.Notification for Upcoming Appointment</members>
+		<name>WorkflowRule</name>
 	</types>
 	<version>51.0</version>
 </Package>
