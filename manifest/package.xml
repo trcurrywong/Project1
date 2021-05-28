@@ -21,7 +21,6 @@
 	</types>
 	<types>
 		<members>AdoptionAnimalsList</members>
-		<members>DogCompanyImage</members>
 		<members>GroomingBathPage</members>
 		<members>GroomingGatherSuppliesPage</members>
 		<members>GroomingGuideHomePage</members>
@@ -123,8 +122,6 @@
 		<members>Inventory</members>
 		<members>LightningSalesConsole_UtilityBar</members>
 		<members>LightningService_UtilityBar</members>
-		<members>Pet_Store_Home</members>
-		<members>Pet_Store_UtilityBar</members>
 		<name>FlexiPage</name>
 	</types>
 	<types>
@@ -163,6 +160,13 @@
 		<members>Pet_Hotel__c</members>
 		<members>Reward_Points__c</members>
 		<name>SharingRules</name>
+	</types>
+	<types>
+		<members>CatBox</members>
+		<members>DogBall</members>
+		<members>DogBone</members>
+		<members>DogLeash</members>
+		<name>StaticResource</name>
 	</types>
 	<types>
 		<members>Adoption__c</members>
