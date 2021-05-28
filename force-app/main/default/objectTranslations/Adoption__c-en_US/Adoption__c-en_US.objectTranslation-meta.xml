@@ -20,12 +20,4 @@
         <errorMessage></errorMessage>
         <name>Must_Have_A_Start_Date</name>
     </validationRules>
-    <workflowTasks>
-        <name>Certificate</name>
-        <subject></subject>
-    </workflowTasks>
-    <workflowTasks>
-        <name>Check_Clinic</name>
-        <subject></subject>
-    </workflowTasks>
 </CustomObjectTranslation>
